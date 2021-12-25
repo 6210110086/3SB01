@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "About"
+permalink: /about/
+categories: jekyll update
+---
+
+### นายไซยิดอับดุร์เราะห์มาน อัลอิดรุส 
+- รหัสนักศึกษา 6210110086
+- คณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์
+
+![](https://scontent.fhdy4-1.fna.fbcdn.net/v/t1.6435-9/160001238_1451410401868912_1153858889833491470_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFeJ6bkzYreoIoAeXTEqOKjApk1qovIr5gCmTWqi8ivmHb2fbTfQTDdxzl7rkbXDHGvKumsJeIlwVDhQsSl3ywC&_nc_ohc=QCkw57mIE_IAX8SUsws&_nc_ht=scontent.fhdy4-1.fna&oh=5e7e70b1d0bde8a364e670c94338480f&oe=61DE3875) 
+
+## กิจกรรม
+งานนี้เป็นส่วนนึงของรายวิชา 240-302:Advance CoE lab II
+
